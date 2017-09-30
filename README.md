@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-HW 02-css-bootstrap due 9/30
+# Basic-Portfolio
+Recommended HW assignment 01-html-git-css/02-Homework
